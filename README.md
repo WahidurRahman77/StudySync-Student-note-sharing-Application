@@ -103,27 +103,6 @@ StudySync-Student-note-sharing-Application/
 
 ---
 
-## Screenshots
-Add your screenshots to a dedicated folder such as `docs/screenshots/`.
-
-Suggested files:
-- `docs/screenshots/login.png`
-- `docs/screenshots/dashboard.png`
-
-Example GitHub Markdown embed:
-```md
-![Login screen](docs/screenshots/login.png)
-![Dashboard](docs/screenshots/dashboard.png)
-```
-
-The two app previews you shared visually align with:
-- Login screen
-- Dashboard / home screen
-
-You can add them under the `docs/screenshots/` directory and then uncomment the snippet above.
-
----
-
 ## Quick start
 
 1. Clone the repository:
