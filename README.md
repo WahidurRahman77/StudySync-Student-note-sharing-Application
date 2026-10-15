@@ -35,11 +35,11 @@ The project includes a modular Android app structure and integrates cloud servic
 
 <div style="display:flex;gap:48px;align-items:center;justify-content:center;flex-wrap:wrap;">
   <img src="./Resource%20pic/Dashboard.jpg" alt="Dashboard"
-       style="width:30%;max-width:420px;height:460px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:block;" />
+       style="width:33%;max-width:420px;height:460px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:block;" />
   <img src="./Resource%20pic/LOGIN%20PAGE.jpg" alt="Login Page"
-       style="width:30%;max-width:420px;height:460px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:block;" />
+       style="width:33%;max-width:420px;height:460px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:block;" />
   <img src="./Resource%20pic/Dashboard.jpg" alt="Admin Dashboard"
-       style="width:30%;max-width:420px;height:460px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:block;" />
+       style="width:33%;max-width:420px;height:460px;object-fit:cover;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:block;" />
 </div>
 
 ## Key features
