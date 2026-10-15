@@ -48,6 +48,21 @@ The project includes a modular Android app structure and integrates cloud servic
 - Clean Kotlin Android structure with feature-oriented screens
 - Built using Gradle Kotlin DSL
 - Suitable for academic portals and student collaboration workflows
+## In APP Features
+
+| Feature | Category | Description | Users |
+|---|---|---|---|
+| Secure Authentication & Registration | Authentication | Student-ID validation at signup, duplicate-account prevention, and Firebase Auth password recovery. | All users |
+| Role-Based Access Control | Access & Permissions | Students request course access; status remains Pending until Admin approval. | Students & Admins |
+| Course Feed & Sharing | Collaboration | Interactive course wall for announcements, nested discussions, and attachments (images / PDFs). | Students & Admins |
+| Bookmark System (My Notes) | Productivity | Personal, course-wise saved notes with sorting (Date, A→Z) and quick access. | Students |
+| In‑App Document Viewer | Content Viewing | Native rendering for large PDFs & high-res images with pinch-to-zoom and external-open option. | All users |
+| File Upload & Cloud Storage | Storage | Media and documents uploaded to Cloudinary for scalable delivery and CDN-backed performance. | Students & Admins |
+| Real‑Time Notifications | Notifications | Instant in-app badge counters plus system push notifications via Firebase Cloud Messaging. | All users |
+| Global Search & Filters | Discovery | Fast search across Departments, Courses, Feeds and user directory with filter controls. | All users |
+| Admin Analytics Console | Admin Tools | Live dashboard with engagement metrics, access approval/revocation, and activity monitoring. | Admins |
+| Moderation Tools | Admin Tools | Content moderation, user management, and audit logs for safe community operations. | Admins |
+| Security & Data Practices | Security | Keep secrets out of source control; use Firebase rules and Cloudinary signed delivery for sensitive assets. | All users |
 
 ## Tech stack
 - Language: Kotlin
