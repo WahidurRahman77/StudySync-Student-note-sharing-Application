@@ -60,12 +60,12 @@ fun ProfileUploadScreen() {
         if (isUploading) {
             CircularProgressIndicator()
             Spacer(modifier = Modifier.height(8.dp))
-            Text("ছবি আপলোড হচ্ছে, অপেক্ষা করুন...")
+            Text("Picture is Uploading please wait")
         } else {
             Button(onClick = {
                 imagePickerLauncher.launch("image/*")
             }) {
-                Text("গ্যালারি থেকে ছবি সিলেক্ট করো")
+                Text("Choose pic from gallery")
             }
         }
 
