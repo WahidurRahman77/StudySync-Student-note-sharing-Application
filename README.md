@@ -34,6 +34,11 @@ StudySync is designed for students to upload and access academic material in a s
 
 The project includes a modular Android app structure and integrates cloud services for secure and scalable media handling.
 
+<div style="display:flex;gap:16px;align-items:center;justify-content:center;flex-wrap:wrap;">
+  <img src="./Resource%20pic/Dashboard.jpg" alt="Dashboard" style="width:38%;max-width:400px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+  <img src="./Resource%20pic/LOGIN%20PAGE.jpg" alt="Login Page" style="width:38%;max-width:400px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+</div>
+
 ## Key features
 - Firebase Authentication
 - Firebase Cloud Messaging (push notifications)
